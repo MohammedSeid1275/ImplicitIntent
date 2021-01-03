@@ -1,8 +1,9 @@
-#Name                      ID
-Mohammed Seid            1275
-Selemon Ketema
+##Implicite Intent Assignment<br>
+#Name                      ID<br>
+Mohammed Seid            1275<br>
+Selemon Ketema            1299<br>
 
-Choose Answer
+##Answer for Multiple choices
 1,D
 2,D
 3,C
