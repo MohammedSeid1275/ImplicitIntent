@@ -3,7 +3,7 @@
 Mohammed Seid            1275<br>
 Selemon Ketema            1299<br>
 
-##Answer for Multiple choices
-1,D
-2,D
-3,C
+##Answer for Multiple choices<br>
+1,D<br>
+2,D<br>
+3,C<br>
